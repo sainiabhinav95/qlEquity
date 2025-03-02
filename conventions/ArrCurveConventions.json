@@ -1,0 +1,18 @@
+{
+    "SOFR": {
+        "settlement_days": 2,
+        "market": "US"
+    },
+    "ESTR": {
+        "settlement_days": 2,
+        "market": "EU"
+    },
+    "SONIA": {
+        "settlement_days": 2,
+        "market": "UK"
+    },
+    "TONAR": {
+        "settlement_days": 2,
+        "market": "JP"
+    }
+}
